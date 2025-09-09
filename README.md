@@ -19,8 +19,10 @@ It showcases my skills, projects, certifications, and education in a clean, mode
 - **CSS3**  
 - **TailwindCSS** (for styling & responsiveness)  
 - **Animate.css** (for animations)  
+(I have use inline CSS as this was my first project )
 
-## 🚀 Usage  
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
+
+#Notice:<b>This is my first project and is subjected to change as i move into new tech </b>
+
+
+
